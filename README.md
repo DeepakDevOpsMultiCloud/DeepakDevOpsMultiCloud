@@ -1,6 +1,9 @@
 
 # Hello there, I'm Deepak 👋
 
+<p style="left"> <img src="https://komarev.com/ghpvc/?username=DeepakDevOpsMultiCloud&label=Profile%20views&color=1a9338&style=flat" alt="DeepakVakkala" /> </p>
+
+
 
 ## About Me
 - 🌱  I'm a **fresh graduate** with a passion for **cloud computing**, **DevOps**, and **software development**. 
