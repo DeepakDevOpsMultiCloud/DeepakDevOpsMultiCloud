@@ -7,17 +7,17 @@
 
 ## About Me
 - 🌱  I'm a **Experience Candidate** with a passion for **cloud computing**, **DevOps**, and **software development**. 
-- 👨‍💻 I’m proficient in **Docker, Kubernetes, Terraform, Jenkins, Azure_DevOps, Git, Linux, Cloud (Azure & AWS)** 
+- 👨‍💻 I’m proficient in **Docker, Kubernetes, Terraform, Jenkins, Azure_DevOps, Git, Linux, Prometheus, Grafana, Kafka, EMQX, PostgreSQL, and HAProxy, Cloud (Azure & AWS)**
 - 🎓 Education: **B.Sc. in Computer Science** (2022)
 
 ## Skills
-- **DevOps Tools:** Docker, Kubernetes, Terraform, Ansible, CI/CD Enthusiast (Jenkins, Azure_DevOps)
+- **DevOps Tools:** Docker, Kubernetes, Terraform, Ansible, CI/CD Enthusiast (Jenkins, Azure_DevOps), Prometheus, Grafana, Kafka, EMQX, PostgreSQL, and HAProxy
 - **Cloud Platforms:** AWS, Azure
 - **Programming:** Python
 
  ## My Learning Journey
   - I am constantly improving my skills in **cloud platforms**, **automation**, and **infrastructure management**.
-  - As a fresher, I’m looking for opportunities to grow in a dynamic team, where I can leverage my skills and learn new technologies.
+  - As a Experience person, I’m looking for opportunities to grow in a dynamic team, where I can leverage my skills and learn new technologies.
 
 ## Connect with Me
 
