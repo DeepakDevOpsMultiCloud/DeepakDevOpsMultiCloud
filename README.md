@@ -6,7 +6,7 @@
 
 
 ## About Me
-- 🌱  I'm a **fresh graduate** with a passion for **cloud computing**, **DevOps**, and **software development**. 
+- 🌱  I'm a **Experience Candidate** with a passion for **cloud computing**, **DevOps**, and **software development**. 
 - 👨‍💻 I’m proficient in **Docker, Kubernetes, Terraform, Jenkins, Azure_DevOps, Git, Linux, Cloud (Azure & AWS)** 
 - 🎓 Education: **B.Sc. in Computer Science** (2022)
 
