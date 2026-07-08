@@ -11,7 +11,7 @@
 - 🎓 Education: **B.Sc. in Computer Science** (2022)
 
 ## Skills
-- **DevOps Tools:** Docker, Kubernetes, Terraform, Ansible, CI/CD Enthusiast (Jenkins, Azure_DevOps), Prometheus, Grafana, Kafka, EMQX, PostgreSQL, and HAProxy
+- **DevOps Tools:** Docker, Kubernetes, Terraform, Ansible, CI/CD Enthusiast (Jenkins, GitLab, Azure_DevOps), Prometheus, Grafana, Kafka, EMQX, PostgreSQL, and HAProxy
 - **Cloud Platforms:** AWS, Azure
 - **Programming:** Python
 
